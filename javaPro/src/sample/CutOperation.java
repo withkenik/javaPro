@@ -6,10 +6,8 @@ public class CutOperation {
 		
 		// 막대기 자르기
 		System.out.println("hello world");
-
-		// 홍길동.... 코딩 완벽
 		
-		// 이창익 나름 코딩....
+		// 이창익 꺼만  나름 코딩....
 		
 
 	} // main
